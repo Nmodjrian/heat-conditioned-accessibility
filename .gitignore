@@ -1,0 +1,28 @@
+# Python environments
+.venv/
+venv/
+
+# Conda
+.env/
+.conda/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code local settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Raw/intermediate data
+data/raw/
+data/interim/
+data/processed/
+
+# Generated outputs
+outputs/
