@@ -20,9 +20,15 @@ __pycache__/
 .DS_Store
 
 # Raw/intermediate data
-data/raw/
-data/interim/
-data/processed/
+data/raw/*
+!data/raw/.gitkeep
+
+data/interim/*
+!data/interim/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
 
 # Generated outputs
-outputs/
+outputs/*
+!outputs/.gitkeep
