@@ -24,12 +24,8 @@ Urban morphology → thermal simulation → walking-network exposure
 
 ## Thermal environment
 
-...
-
-## Accessibility results
-
-...
+![](docs/figures/thermal_environment.png)
 
 ## Sensitivity analysis
 
-...
+![](docs/figures/sensitivity_curve.png)
