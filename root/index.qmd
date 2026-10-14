@@ -1,0 +1,35 @@
+---
+title: "Heat-Conditioned Accessibility"
+subtitle: "A reproducible proof of concept in Sevilla, Spain"
+format:
+  html:
+    toc: true
+    code-fold: true
+---
+
+## Why this matters
+
+Conventional accessibility measures usually represent travel impedance
+through distance or travel time.
+
+This proof of concept asks:
+
+> How does estimated accessibility change when pedestrian thermal stress
+> is incorporated directly into network impedance?
+
+## Method
+
+Urban morphology → thermal simulation → walking-network exposure
+→ thermal impedance → accessibility
+
+## Thermal environment
+
+...
+
+## Accessibility results
+
+...
+
+## Sensitivity analysis
+
+...
