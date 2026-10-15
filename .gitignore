@@ -38,3 +38,4 @@ data/mobile/*
 !data/mobile/.gitkeep
 !data/mobile/raw/.gitkeep
 !data/mobile/interim/.gitkeep
+notebooks/cache/
