@@ -446,6 +446,16 @@ The figure below summarizes the full Toronto proof-of-concept from spatial input
 | Core 50-station Spearman $\rho$ | −0.1974 |
 | Tested $\lambda \times$ threshold specifications with negative association | 100% |
 
+### Highlights
+
+The negative association persists across:
+
+- Heat substantially changed effective walking impedance. Across the 14 thermal scenarios, mean edge-level UTCI ranged from 26.52 to 40.17 °C, and the mean heat-conditioned cost ratio ranged from 1.00 to 1.409.
+- Accessibility losses were scenario-dependent and sometimes large. Under the 10-minute generalized walking-cost budget, modeled transit accessibility loss ranged from 0 to 45.53%.
+- The behavioral signal was directionally consistent. Greater modeled accessibility loss tended to coincide with more negative weekday-adjusted Bike Share response, with an overall Spearman correlation of −0.208.
+- The result was robust to reasonable modeling choices. The association remained negative across all tested combinations of thermal threshold and \(\lambda\), and for both the full 75-station sample and the 50-station core sample.
+- The effect is modest, not causal. The analysis provides observational behavioral support for the thermal-accessibility framework, rather than direct behavioral validation or a causal estimate.
+
 # 16. Terminology
 
 ## Accessibility
