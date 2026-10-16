@@ -217,8 +217,8 @@ Accessibility is measured from reproducible origin points to transit destination
 
 The Toronto implementation uses:
 
-- **50 accessibility origins**;
-- transit stops as destinations;
+- **50 accessibility origins** (randomly sampled with a fixed random seed to ensure reproducibility);
+- transit stops as destinations ( Transit stops were used as destinations; 223 stop features were identified and snapped to 167 unique walking-network nodes.);
 - a **600-second generalized walking budget**;
 - the same origin set and destination set across scenarios.
 
