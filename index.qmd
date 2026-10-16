@@ -219,10 +219,12 @@ The Toronto implementation uses:
 
 - **50 accessibility origins** (randomly sampled with a fixed random seed to ensure reproducibility);
 - transit stops as destinations ( Transit stops were used as destinations; 223 stop features were identified and snapped to 167 unique walking-network nodes.);
-- a **600-second generalized walking budget**;
+- a **600-second (10-min) generalized walking budget**;
 - the same origin set and destination set across scenarios.
 
 ![Accessibility origins and transit destinations](figures/fig_08_origins_and_transit_stops.png){#fig-origins-transit width=82%}
+
+**Travel time is the impedance; reachable transit stops are the accessibility outcome.**
 
 ## Normal accessibility
 
